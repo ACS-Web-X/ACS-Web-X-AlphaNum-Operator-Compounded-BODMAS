@@ -1,0 +1,10 @@
+Compounded Arithmetics with BODMAS:
++ = Add and - = Minus
+  
+*QB+!RRBNPP  
+= (9x3) + (5+5+3+3+1+1) = 27 + 18 = 45
+
+*QN-!RRBNPP
+= (9x3) - (5+5+3+3+1+1) = 27 - 18 = 9
+
+*QR+!QQQQRBP = 45 + 45 = 90
